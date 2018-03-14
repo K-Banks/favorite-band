@@ -1,0 +1,36 @@
+body {
+  font-family: fantasy;
+  font-size: 21px;
+  color: lightgray;
+  background-image: url("../img/bg.jpg");
+}
+
+.wrapper {
+  height: 100%;
+}
+
+.col {
+  background-color: #292E37;
+  float: right;
+  margin: .5%;
+  padding: 1%;
+  border: 2px solid white;
+  height: 1000px;
+}
+
+.shows {
+  width: 29%;
+}
+
+.mid {
+  width: 30%;
+  text-align: center;
+}
+
+.images {
+  width: 29%;
+}
+
+img {
+  width: 100%;
+}
